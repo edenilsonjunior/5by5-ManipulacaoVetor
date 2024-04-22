@@ -9,7 +9,7 @@
 
 
 
-Console.WriteLine("=====Numeros pares e impares=====");
+Console.WriteLine("====Manipulação de vetor=====");
 
 // Variavel que representa o tamanho dos vetores para evitar redundancia na repeticao do tamanho e facilidade de mudança do tamanho dos vetores
 int size = 10;
